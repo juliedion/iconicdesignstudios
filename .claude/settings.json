@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c ' *)",
+      "Bash(awk 'NR>=144 && NR<=157{print NR\": \"$0}' iconic.html)",
+      "Bash(mkdir -p work)",
+      "Bash(qlmanage -t -s 1200 -o work \"/Users/juliedion/Library/CloudStorage/Dropbox/Career/juliedion.com/Website/images/Microsoft/d365-tablet-carousel.mp4\")",
+      "Bash(awk 'NR>=310 && NR<=350{print NR\": \"$0}' iconic.html)",
+      "Bash(awk 'NR>=557 && NR<=587{print NR\": \"$0}' iconic.html)",
+      "Bash(awk 'NR>=144 && NR<=170{print NR\": \"$0}' iconic.html)",
+      "Bash(awk 'NR>=3 && NR<=12{print NR\": \"$0}' iconic.html)",
+      "Bash(awk 'NR>=159 && NR<=178{print NR\": \"$0}' iconic.html)",
+      "Bash(awk 'NR>=436 && NR<=645 && length\\($0\\)<2000{print NR\": \"$0}' iconic.html)",
+      "Bash(awk 'NR>=219 && NR<=436{print NR\": \"$0}' iconic.html)",
+      "Bash(cp \"/Users/juliedion/Library/CloudStorage/Dropbox/Iconic Design Studio/iconicdesignstudios.com/iconicdesignstudios/assets/brushed-metal-background-with-light-reflection-tex-2026-03-18-13-50-19-utc.jpg\" metal.jpg)",
+      "Bash(sips -s format jpeg -s formatOptions 78 -Z 1800 metal.jpg --out metal-web.jpg)",
+      "Bash(echo \"data:image/jpeg;base64,$\\(base64 -i metal-web.jpg\\)\")",
+      "Bash(awk 'NR>=656 && NR<=696{print NR\": \"$0}' iconic.html)",
+      "Bash(awk 'NR>=656 && NR<=696 && length\\($0\\)<300{print NR\": \"$0}' iconic.html)",
+      "Bash(awk 'NR>=621 && NR<=650 && length\\($0\\)<300{print NR\": \"$0}' iconic.html)",
+      "Bash(awk 'NR>=560 && NR<=572 && length\\($0\\)<300{print NR\": \"$0}' iconic.html)",
+      "Bash(awk 'NR>=12 && NR<=27{print NR\": \"$0}' iconic.html)"
+    ]
+  }
+}
