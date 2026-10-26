@@ -1,0 +1,384 @@
+{
+ "spectrum": [
+  {
+   "type": "image",
+   "src": "assets/work/spectrum/01.jpg",
+   "caption": "Spectrum Business design system"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/spectrum/02.jpg",
+   "caption": "Spectrum Business sports programming page"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/spectrum/03.jpg",
+   "caption": "TV for bars & restaurants — responsive page set"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/spectrum/04.jpg",
+   "caption": "B2B landing pages across desktop, tablet, and mobile"
+  }
+ ],
+ "microsoft": [
+  {
+   "type": "video",
+   "src": "assets/work/microsoft/01.mp4",
+   "poster": "assets/work/microsoft/01.jpg",
+   "caption": "Dynamics 365 tablet carousel animation"
+  },
+  {
+   "type": "video",
+   "src": "assets/work/microsoft/02.mp4",
+   "poster": "assets/work/microsoft/02.jpg",
+   "caption": "Social video — eBook hero"
+  },
+  {
+   "type": "video",
+   "src": "assets/work/microsoft/03.mp4",
+   "poster": "assets/work/microsoft/03.jpg",
+   "caption": "Social video — illustrated case study"
+  },
+  {
+   "type": "video",
+   "src": "assets/work/microsoft/04.mp4",
+   "poster": "assets/work/microsoft/04.jpg",
+   "caption": "Animated statistic illustration",
+   "loop": true
+  }
+ ],
+ "pyxis": [
+  {
+   "type": "image",
+   "src": "assets/work/pyxis/01.jpg",
+   "caption": "Pyxis — “Where Science Meets Storytelling”"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/pyxis/02.jpg",
+   "caption": "Full-page print ad"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/pyxis/03.jpg",
+   "caption": "Halo Labs campaign — 2022 MarCom Gold winner"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/pyxis/04.jpg",
+   "caption": "Halo Labs “Embrace change” print ad"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/pyxis/05.jpg",
+   "caption": "Tradeshow pop-up banner"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/pyxis/06.jpg",
+   "caption": "Thermo Fisher tradeshow campaign"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/pyxis/07.jpg",
+   "caption": "Website and landing page designs"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/pyxis/08.jpg",
+   "caption": "Infographics and editorial layouts"
+  }
+ ],
+ "madison": [
+  {
+   "type": "image",
+   "src": "assets/work/madison/01.jpg",
+   "caption": "Madison Handbags e-commerce site"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/madison/02.jpg",
+   "caption": "Fall catalog"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/madison/03.jpg",
+   "caption": "Spring catalog"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/madison/04.jpg",
+   "caption": "Brand relaunch — print, web, and packaging"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/madison/05.jpg",
+   "caption": "Launch event invitation"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/madison/06.jpg",
+   "caption": "Monét Handbags logo"
+  }
+ ],
+ "hcs": [
+  {
+   "type": "image",
+   "src": "assets/work/hcs/01.jpg",
+   "caption": "Resilix — GDUSA 2019 UX/UI Design Winner"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/hcs/02.jpg",
+   "caption": "Resilix patient support platform"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/hcs/03.jpg",
+   "caption": "Patient-reported outcomes dashboard"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/hcs/04.jpg",
+   "caption": "Resilix app — patient and clinician views"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/hcs/05.jpg",
+   "caption": "Patient support infographic"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/hcs/06.jpg",
+   "caption": "Adherence fact sheet"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/hcs/07.jpg",
+   "caption": "Patient Experience Insights campaign"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/hcs/08.jpg",
+   "caption": "Resilix 5.3 product launch"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/hcs/09.jpg",
+   "caption": "Recruitment ad"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/hcs/10.jpg",
+   "caption": "Recruitment ad — benefits"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/hcs/11.jpg",
+   "caption": "World Health Day social"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/hcs/12.jpg",
+   "caption": "Pride brand mark"
+  }
+ ],
+ "merck": [
+  {
+   "type": "image",
+   "src": "assets/work/merck/01.jpg",
+   "caption": "“Engage the future” global sales meeting — GDUSA winner"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/merck/02.jpg",
+   "caption": "Global sales meeting campaign — GDUSA winner"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/merck/03.jpg",
+   "caption": "Muse launch — ASCB billboards, Denver"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/merck/04.jpg",
+   "caption": "Muse launch — mobile billboard"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/merck/05.jpg",
+   "caption": "Mobile lab vehicle wrap"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/merck/06.jpg",
+   "caption": "BiotechNOW print ad"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/merck/07.jpg",
+   "caption": "Bioprocess global sales meeting save-the-date"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/merck/08.jpg",
+   "caption": "CORE program poster"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/merck/09.jpg",
+   "caption": "Mobius campaign"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/merck/10.jpg",
+   "caption": "Patient starter brochure"
+  }
+ ],
+ "itg": [
+  {
+   "type": "image",
+   "src": "assets/work/itg/01.jpg",
+   "caption": "Newpoint Real Estate Capital — web and brand"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/itg/02.jpg",
+   "caption": "Newpoint display ad"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/itg/03.jpg",
+   "caption": "ShareBuilder — site design"
+  }
+ ],
+ "insite": [
+  {
+   "type": "image",
+   "src": "assets/work/insite/01.jpg",
+   "caption": "InSite Home Inspections — identity and collateral"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/insite/02.jpg",
+   "caption": "InSite logo"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/insite/03.jpg",
+   "caption": "Times Union print ad"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/insite/04.jpg",
+   "caption": "Trifold brochure"
+  }
+ ],
+ "etsy": [
+  {
+   "type": "image",
+   "src": "assets/work/etsy/01.jpg",
+   "caption": "Customizable Canva template bundle"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/etsy/02.jpg",
+   "caption": "Pumpkin Patch Festival flyer template"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/etsy/03.jpg",
+   "caption": "School program flyer template"
+  }
+ ],
+ "schalmont": [
+  {
+   "type": "image",
+   "src": "assets/work/schalmont/01.jpg",
+   "caption": "Schalmont Central PTO website — schalmontpto.com"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/schalmont/02.jpg",
+   "caption": "Color Run 2025"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/schalmont/03.jpg",
+   "caption": "Glow Gala invitation"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/schalmont/04.jpg",
+   "caption": "One Night in Hollywood gala invitation"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/schalmont/05.jpg",
+   "caption": "Trunk or Treat"
+  },
+  {
+   "type": "video",
+   "src": "assets/work/schalmont/06.mp4",
+   "poster": "assets/work/schalmont/06.jpg",
+   "caption": "Trunk or Treat promo video"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/schalmont/07.jpg",
+   "caption": "Jefferson 4th Grade Kickball Tournament"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/schalmont/08.jpg",
+   "caption": "Summer Camp Fair"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/schalmont/09.jpg",
+   "caption": "Banking Built for Jefferson Students"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/schalmont/10.jpg",
+   "caption": "Journey to Jefferson kindergarten program"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/schalmont/11.jpg",
+   "caption": "Jefferson Elementary At-A-Glance"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/schalmont/12.jpg",
+   "caption": "Turn Off the Screen family challenge"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/schalmont/13.jpg",
+   "caption": "Sabre Youth Football 2025"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/schalmont/14.jpg",
+   "caption": "Schalmont Youth Basketball Camp"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/schalmont/15.jpg",
+   "caption": "Jefferson Night at the varsity game"
+  },
+  {
+   "type": "video",
+   "src": "assets/work/schalmont/16.mp4",
+   "poster": "assets/work/schalmont/16.jpg",
+   "caption": "Winter gear drive video"
+  },
+  {
+   "type": "image",
+   "src": "assets/work/schalmont/17.jpg",
+   "caption": "A season of PTO events"
+  }
+ ]
+}
